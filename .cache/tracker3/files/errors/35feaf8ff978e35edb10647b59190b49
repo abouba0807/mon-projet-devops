@@ -1,0 +1,3 @@
+[Report]
+Uri=file:///home/abou/jenkins_data/war/images/24x24/empty.gif
+Message=Could not get any metadata for uri:'file:///home/abou/jenkins_data/war/images/24x24/empty.gif' and mime:'image/gif'
